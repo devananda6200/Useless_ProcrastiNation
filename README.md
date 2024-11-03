@@ -56,7 +56,7 @@ npm start
 )  
 *Main task interface displaying productive and silly tasks.*
 
-[Task Completed Notification]((https://github.com/user-attachments/assets/7a0e3818-15fa-4793-b2e6-2484d5d5bec9)
+[Task Completed Notification](https://github.com/user-attachments/assets/7a0e3818-15fa-4793-b2e6-2484d5d5bec9)
 )  
 *Notification popup for completed task.*
 
