@@ -52,13 +52,16 @@ npm start
 ### Project Documentation
 
 #### Screenshots
-![Main Screen](Add screenshot 1 here with proper name)  
+![Main Screen](https://github.com/user-attachments/assets/f860afe9-0056-4f8b-a72e-4a9a5188b52f)
+)  
 *Main task interface displaying productive and silly tasks.*
 
-![Task Completed Notification](Add screenshot 2 here with proper name)  
+[Task Completed Notification]((https://github.com/user-attachments/assets/7a0e3818-15fa-4793-b2e6-2484d5d5bec9)
+)  
 *Notification popup for completed task.*
 
-![Timer Running](Add screenshot 3 here with proper name)  
+![Timer Running](https://github.com/user-attachments/assets/1d8ae033-a077-4b56-8758-ad3e8e6bb8b8)
+)  
 *Timer active on a productive task, displaying task countdown.*
 
 #### Diagrams
@@ -74,10 +77,12 @@ e)
 _No hardware is required for this project, but feel free to add funny hardware ideas if needed._
 
 #### Build Photos
-![Components](Add photo of your components here)  
+![Components](https://github.com/user-attachments/assets/5f84ffb2-4c22-4093-b949-422c8b39390e)
+)  
 *Here’s a hypothetical image of "components" to add some humor!*
 
-![Final Product](Add final product photo here)  
+![Final Product](https://github.com/user-attachments/assets/f32b3a75-1806-4cc9-9917-061a9597d9a6)
+)  
 *Final view of the app interface after adding fun elements and styling.*
 
 ---
@@ -85,14 +90,9 @@ _No hardware is required for this project, but feel free to add funny hardware i
 ### Project Demo
 
 #### Video
-[Add your demo video link here]  
+[https://drive.google.com/file/d/1-nkgvW6lt3ymOcbmivhtImgMn7yfHhbc/view?usp=drive_link ]  
 *Video demonstrating user flow through productive and silly tasks.*
 
-#### Additional Demos
-[Add any extra demo materials or links here]  
-*Links to fun demo images or videos of the app in action.*
-
----
 
 Made with ❤️ at TinkerHub Useless Projects 
 
