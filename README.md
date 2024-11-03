@@ -53,15 +53,15 @@ npm start
 
 #### Screenshots
 ![Main Screen](https://github.com/user-attachments/assets/f860afe9-0056-4f8b-a72e-4a9a5188b52f)
-)  
+
 *Main task interface displaying productive and silly tasks.*
 
-[Task Completed Notification](https://github.com/user-attachments/assets/7a0e3818-15fa-4793-b2e6-2484d5d5bec9)
-)  
+![Task Completed Notification](https://github.com/user-attachments/assets/7a0e3818-15fa-4793-b2e6-2484d5d5bec9)
+
 *Notification popup for completed task.*
 
 ![Timer Running](https://github.com/user-attachments/assets/1d8ae033-a077-4b56-8758-ad3e8e6bb8b8)
-)  
+ 
 *Timer active on a productive task, displaying task countdown.*
 
 #### Diagrams
